@@ -12,6 +12,7 @@ Hwang Jiung
 #### Programming
 <img src="https://img.shields.io/badge/Ubuntu-blue?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-2496ED?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-F05138?style=flat-square&logo=iOS&logoColor=white"/>
 <hr/>
+
 ### CHOPMOZZI's current state
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chopmozzi)](https://github.com/chopmozzi/github-readme-stats)
