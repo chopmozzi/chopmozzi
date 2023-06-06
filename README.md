@@ -14,7 +14,7 @@ Hwang Jiung
 <hr/>
 
 ### CHOPMOZZI's Work:
-**School Project**
+&nbsp; **School Project**
 - System Programming: Custom Proxy Server
     - Language: C, OS: Ubuntu, Build Tool: Makefile
     - HTTP Request에 따라 Response Message를 저장하고 이를 Cache로 사용하는 Proxy Server를 구현.
@@ -42,7 +42,7 @@ Hwang Jiung
 
 <br/>
 
-**Side Project**
+&nbsp; **Side Project**
 - App-In-App-le: NostalgiAlbum
     - App-In-App-le 팀에서 진행한 프로젝트입니다.
     - 추억의 앨범을 테마로 자신이 원하는 앨범, 사진을 내용과 함께 꾸미는 앱을 목표로 함.
