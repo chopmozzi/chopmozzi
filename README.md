@@ -37,7 +37,7 @@ Hwang Jiung
     - Language: C#, Framework: Unity, Build Tool: Visual Studio & Unity
     - LigNex1과 산학협력 프로젝트로 진행.
     - 무인기(드론)의 자율운항 학습은 Unity환경에서 진행하며 Unity ML-Agents를 사용해 강화학습을 진행함.
-    - 학습 모델을 Unity ML-Agents를 이용해 적용하며 UI와 함께 시뮬레이터를 통해 결과를 테스트함.
+    - 학습 모델을 Unity ML-Agents를 이용해 적용하며 UI와 함께 결과를 테스트함으로써 시뮬레이터의 역할을 함.
     - [깃허브 레포지토리 링크](https://github.com/GoDroneTeam/SW_Project-Drone-Reinforcement-Learning-Simulator)
 
 <br/>
