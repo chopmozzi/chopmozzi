@@ -51,7 +51,7 @@ Hwang Jiung(황지웅)
 
 &nbsp; **Side Project**
 - App-In-App-le: NostalgiAlbum
-    - Language: Swift, OS: iOS, Build Too: Xcode
+    - Language: Swift, OS: iOS, Build Tool: Xcode
     - App-In-App-le 팀에서 진행한 프로젝트.
     - 추억의 앨범을 테마로 자신이 원하는 앨범, 사진을 내용과 함께 꾸미는 앱을 목표로 함.
     - 앱 개발 초기에는 전반적인 부분을 팀원과 공유하며 같이 진행했고, 개발 중후반 부터는 앨범 공유, 앨범 내 사진 및 페이지 검색에 중점을 두고 진행함.
