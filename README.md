@@ -1,9 +1,14 @@
-# 🐢CHOPMOZZI's Profile
+# 🐢🎾CHOPMOZZI's Profile
+>안녕하세요! 테니스를 좋아하는 찹모찌입니다.
+><br/>
+>만드는 사람과 쓰는 사람 모두가 재밌는 앱을 만드는 것이 목표인 iOS 개발자입니다.
+><br/>
+
 ### 📖Education
 🌱 I’m currently learning ...  
 **Kwangwoon University** - *Computer & Information Engineering*  
 2018~  
-Hwang Jiung
+Hwang Jiung(황지웅)
 <hr/>
 
 ### 🔑Tech Stacks
@@ -39,6 +44,8 @@ Hwang Jiung
     - 무인기(드론)의 자율운항 학습은 Unity환경에서 진행하며 Unity ML-Agents를 사용해 강화학습을 진행함.
     - 학습 모델을 Unity ML-Agents를 이용해 적용하며 UI와 함께 결과를 테스트함으로써 시뮬레이터의 역할을 함.
     - [깃허브 레포지토리 링크](https://github.com/GoDroneTeam/SW_Project-Drone-Reinforcement-Learning-Simulator)
+    - [프로젝트 설명 링크](/pdf/1.pdf)
+    - [프로젝트 동영상 링크](https://www.youtube.com/watch?v=-T5ADdbCwck)
 
 <br/>
 
@@ -49,3 +56,5 @@ Hwang Jiung
     - 앱 개발 초기에는 전반적인 부분을 팀원과 공유하며 같이 진행했고, 개발 중후반 부터는 앨범 공유, 앨범 내 사진 및 페이지 검색에 중점을 두고 진행함.
     - [깃허브 레포지토리 링크](https://github.com/App-in-App-le/NostalgiAlbum)
     - [앱 스토어 링크](https://apps.apple.com/kr/app/nostalgialbum/id6448299485)
+    - [App-In-App-le NostalgiAlbum 개발 링크](https://wax-tapir-01c.notion.site/Development-a0c8ab3710084128b306dd004f5db091?pvs=4)
+    - [App-In-App-le NostalgiAlbum 개발 일지 링크](https://abalone-fahrenheit-80e.notion.site/Discussion-1078a4efaabb4162b7febf7e1c90a1ba?pvs=4)
