@@ -30,7 +30,7 @@ Hwang Jiung(황지웅)
     - [깃허브 레포지토리 링크](https://github.com/chopmozzi/Huffman_Coidng_in_CPP)
 - Artifical Intelligence: Hexapawn
     - Language: C++, OS: Windows, Build Tool: Visual Studio Community solution 
-    - Player의 선택과 Alpha-Beta Pruning을 바탕으로 한 Computer의 선택을 기반으로 하는 Hexapawna 게임 구현.
+    - Player의 선택과 Alpha-Beta Pruning을 바탕으로 한 Computer의 선택을 기반으로 하는 Hexapawn 게임 구현.
     - [깃허브 레포지토리 링크](https://github.com/chopmozzi/Hexapawn_in_CPP)
 
 - OpenSource Software Architecture and Training: OpenSource Contribution
