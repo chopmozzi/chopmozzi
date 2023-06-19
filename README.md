@@ -44,6 +44,8 @@ Hwang Jiung(황지웅)
     - 기간: 2022.08 ~ 2023.02
     - 무인기(드론)의 자율운항 학습은 Unity환경에서 진행하며 Unity ML-Agents를 사용해 강화학습을 진행함.
     - 학습 모델을 Unity ML-Agents를 이용해 적용하며 UI와 함께 결과를 테스트함으로써 시뮬레이터의 역할을 함.
+    - 광운대학교 제 7회 SW산학연계 전시회 우수상 수상.
+    - [한국통신학회 논문](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11227812)
     - [깃허브 레포지토리 링크](https://github.com/GoDroneTeam/SW_Project-Drone-Reinforcement-Learning-Simulator)
     - [프로젝트 설명 링크](/pdf/1.pdf)
     - [프로젝트 동영상 링크](https://www.youtube.com/watch?v=-T5ADdbCwck)
