@@ -47,7 +47,7 @@ Hwang Jiung(황지웅)
     - python과 Unity사이를 통신시키는 Unity ML-Agents를 이용하여 Unity 파트 및 시뮬레이터 UI 파트를 담당함.
     - 광운대학교 제 7회 SW산학연계 전시회 우수상 수상.
     - [한국통신학회 논문](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11227812)
-    - [깃허브 레포지토리 링크](https://github.com/GoDroneTeam/SW_Project-Drone-Reinforcement-Learning-Simulator)
+    - [깃허브 레포지토리 링크(유료 에셋 저작권 문제로 Private전환)](https://github.com/GoDroneTeam/SW_Project-Drone-Reinforcement-Learning-Simulator)
     - [프로젝트 설명 링크](/pdf/1.pdf)
     - [프로젝트 동영상 링크](https://www.youtube.com/watch?v=-T5ADdbCwck)
 
