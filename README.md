@@ -45,9 +45,9 @@ Hwang Jiung(황지웅)
     - 무인기(드론)의 자율운항 학습은 Unity환경에서 진행하며 Unity ML-Agents를 사용해 강화학습을 진행함.
     - 무인기 강화학습 예시(정적 장애물, 동적 장애물)
     - 정적 장애물
-    - ![정적 장애물](/gif/%EC%A0%95%EC%A0%81.gif)
+    - ![정적](https://github.com/chopmozzi/chopmozzi/assets/44396392/e30c0a59-323e-4236-9e2d-668371f17b56)
     - 동적 장애물
-    - ![동적 장애물](/gif/%EC%A0%95%EC%A0%81.gif)
+    - ![동적](https://github.com/chopmozzi/chopmozzi/assets/44396392/f96c0bb9-328e-4cd4-b8e2-2e7163aaeaee)
     - 학습 모델을 Unity ML-Agents를 이용해 적용하며 UI와 함께 결과를 테스트함으로써 시뮬레이터의 역할을 함.
     - python과 Unity사이를 통신시키는 Unity ML-Agents를 이용하여 Unity 파트 및 시뮬레이터 UI 파트를 담당함.
     - 광운대학교 제 7회 SW산학연계 전시회 우수상 수상.
