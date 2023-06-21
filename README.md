@@ -51,6 +51,7 @@ Hwang Jiung(황지웅)
     <br/>
     <img src = "gif/1.gif" width = "50%" height = "50%">
     <br/>
+    
     - 학습 모델을 Unity ML-Agents를 이용해 적용하며 UI와 함께 결과를 테스트함으로써 시뮬레이터의 역할을 함.
     - python과 Unity사이를 통신시키는 Unity ML-Agents를 이용하여 Unity 파트 및 시뮬레이터 UI 파트를 담당함.
     - 광운대학교 제 7회 SW산학연계 전시회 우수상 수상.
