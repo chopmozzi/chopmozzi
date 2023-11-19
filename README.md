@@ -9,6 +9,8 @@
 **Kwangwoon University** - *Computer & Information Engineering*  
 2018~  
 Hwang Jiung(황지웅)
+
+**부스트캠프 웹・모바일 8기** 2023.07.10 ~ 2023.08.04(챌린지), 2023.08.28 ~ (멤버십)
 <hr/>
 
 ### 🔑Tech Stacks
