@@ -1,7 +1,7 @@
 # 🐢🎾CHOPMOZZI's Profile
->안녕하세요! 테니스를 좋아하는 찹모찌입니다.
+>안녕하세요! 찹모찌입니다.
 ><br/>
->만드는 사람과 쓰는 사람 모두가 재밌는 앱을 만드는 것이 목표인 iOS 개발자입니다.
+>어떤 프로젝트를 하던 하나의 완성된 프로그램을 만드는 것을 목표로 나아가는 개발자 황지웅입니다.
 ><br/>
 
 ### 📖Education
@@ -10,7 +10,9 @@
 2018~  
 Hwang Jiung(황지웅)
 
-**부스트캠프 웹・모바일 8기** 2023.07.10 ~ 2023.08.04(챌린지), 2023.08.28 ~ (멤버십)
+**부스트캠프 웹・모바일 8기**
+- 2023.07.10 ~ 2023.08.04(챌린지)
+- 2023.08.28 ~ 2023.12.15(멤버십)
 <hr/>
 
 ### 🔑Tech Stacks
@@ -21,6 +23,20 @@ Hwang Jiung(황지웅)
 <hr/>
 
 ### CHOPMOZZI's Work:
+&nbsp; **Side Project**
+
+- App-In-App-le: NostalgiAlbum
+    - Language: Swift, OS: iOS, Build Tool: Xcode
+    - App-In-App-le 팀에서 진행한 프로젝트.
+    - 2022.08 ~ 2023.05
+    - 추억의 앨범을 테마로 자신이 원하는 앨범, 사진을 내용과 함께 꾸미는 앱을 목표로 함.
+    - 앱 개발 초기에는 전반적인 부분을 팀원과 공유하며 같이 진행했고, 개발 중후반 부터는 앨범 공유, 앨범 내 사진 및 페이지 검색에 중점을 두고 진행함.
+    - [깃허브 레포지토리 링크](https://github.com/App-in-App-le/NostalgiAlbum)
+    - [앱 스토어 링크](https://apps.apple.com/kr/app/nostalgialbum/id6448299485)
+    - [App-In-App-le NostalgiAlbum 개발 링크](https://wax-tapir-01c.notion.site/Development-a0c8ab3710084128b306dd004f5db091?pvs=4)
+    - [App-In-App-le NostalgiAlbum 개발 일지 링크](https://abalone-fahrenheit-80e.notion.site/Discussion-1078a4efaabb4162b7febf7e1c90a1ba?pvs=4)
+
+
 &nbsp; **School Project**
 - System Programming: Custom Proxy Server
     - Language: C, OS: Ubuntu, Build Tool: Makefile
@@ -65,15 +81,3 @@ Hwang Jiung(황지웅)
     - [프로젝트 동영상 링크](https://www.youtube.com/watch?v=-T5ADdbCwck)
 
 <br/>
-
-&nbsp; **Side Project**
-- App-In-App-le: NostalgiAlbum
-    - Language: Swift, OS: iOS, Build Tool: Xcode
-    - App-In-App-le 팀에서 진행한 프로젝트.
-    - 2022.08 ~ 2023.05
-    - 추억의 앨범을 테마로 자신이 원하는 앨범, 사진을 내용과 함께 꾸미는 앱을 목표로 함.
-    - 앱 개발 초기에는 전반적인 부분을 팀원과 공유하며 같이 진행했고, 개발 중후반 부터는 앨범 공유, 앨범 내 사진 및 페이지 검색에 중점을 두고 진행함.
-    - [깃허브 레포지토리 링크](https://github.com/App-in-App-le/NostalgiAlbum)
-    - [앱 스토어 링크](https://apps.apple.com/kr/app/nostalgialbum/id6448299485)
-    - [App-In-App-le NostalgiAlbum 개발 링크](https://wax-tapir-01c.notion.site/Development-a0c8ab3710084128b306dd004f5db091?pvs=4)
-    - [App-In-App-le NostalgiAlbum 개발 일지 링크](https://abalone-fahrenheit-80e.notion.site/Discussion-1078a4efaabb4162b7febf7e1c90a1ba?pvs=4)
