@@ -24,7 +24,15 @@ Hwang Jiung(황지웅)
 
 ### CHOPMOZZI's Work:
 &nbsp; **Side Project**
-
+- 부스트캠프 웹・모바일 8기: Layover
+    - Language: Swift, OS: iOS, Build Tool: Xcode
+    - 부스트캠프 웹・모바일 8기에서 진행한 그룹프로젝트.
+    - 2023.11 ~ 2023.12
+    - 위치기반 숏폼 플랫폼
+    - 서버 2명, 클라이언트(iOS) 3명으로 진행.
+    - 숏폼의 영상 시청기능(재생 화면) 담당.
+    - [깃허브 레포지토리 링크](https://github.com/boostcampwm2023/iOS09-Layover)
+    - [앱 스토어 링크](https://apps.apple.com/kr/app/layover/id6474028642)
 - App-In-App-le: NostalgiAlbum
     - Language: Swift, OS: iOS, Build Tool: Xcode
     - App-In-App-le 팀에서 진행한 프로젝트.
