@@ -43,27 +43,8 @@ Hwang Jiung(황지웅)
     - [앱 스토어 링크](https://apps.apple.com/kr/app/nostalgialbum/id6448299485)
     - [App-In-App-le NostalgiAlbum 개발 링크](https://wax-tapir-01c.notion.site/Development-a0c8ab3710084128b306dd004f5db091?pvs=4)
     - [App-In-App-le NostalgiAlbum 개발 일지 링크](https://abalone-fahrenheit-80e.notion.site/Discussion-1078a4efaabb4162b7febf7e1c90a1ba?pvs=4)
-
-
-&nbsp; **School Project**
-- System Programming: Custom Proxy Server
-    - Language: C, OS: Ubuntu, Build Tool: Makefile
-    - HTTP Request에 따라 Response Message를 저장하고 이를 Cache로 사용하는 Proxy Server를 구현.
-    - [깃허브 레포지토리 링크](https://github.com/chopmozzi/Custom_Proxy_Server)
-- Probability and Statistics: Huffman Coding
-    - Language: C++, OS: Windows, Build Tool: Visual Studio Community solution
-    - Huffman coding을 이용해 txt파일의 내용을 압축(Encoding), 압축한 파일을 다시 해제(Decoding)하는 과정을 구현.
-    - [깃허브 레포지토리 링크](https://github.com/chopmozzi/Huffman_Coidng_in_CPP)
-- Artifical Intelligence: Hexapawn
-    - Language: C++, OS: Windows, Build Tool: Visual Studio Community solution 
-    - Player의 선택과 Alpha-Beta Pruning을 바탕으로 한 Computer의 선택을 기반으로 하는 Hexapawn 게임 구현.
-    - [깃허브 레포지토리 링크](https://github.com/chopmozzi/Hexapawn_in_CPP)
-
-- OpenSource Software Architecture and Training: OpenSource Contribution
-    - 오픈소스소프트웨어 설계 및 실습에서 팀 프로젝트로 오픈소스 컨트리뷰션 프로젝트를 진행함.
-    - Webpack 문서 번역 기여.
-    - [Webpack 기여 목록](https://github.com/line/webpack.kr/pulls?q=is%3Apr+is%3Aclosed+author%3Achopmozzi+)
-
+  <br/>
+&nbsp; **산학협력 프로젝트**
 - LigNex1 Internship Project: Autunomous Drone Simulator Based on Reinforcement
     - Language: C#, Framework: Unity, Build Tool: Visual Studio & Unity
     - LigNex1과 산학협력 프로젝트로 진행.
@@ -87,5 +68,25 @@ Hwang Jiung(황지웅)
     - [깃허브 레포지토리 링크(유료 에셋 저작권 문제로 Private전환)](https://github.com/GoDroneTeam/SW_Project-Drone-Reinforcement-Learning-Simulator)
     - [프로젝트 설명 링크](/pdf/1.pdf)
     - [프로젝트 동영상 링크](https://www.youtube.com/watch?v=-T5ADdbCwck)
+
+
+&nbsp; **School Project**
+- System Programming: Custom Proxy Server
+    - Language: C, OS: Ubuntu, Build Tool: Makefile
+    - HTTP Request에 따라 Response Message를 저장하고 이를 Cache로 사용하는 Proxy Server를 구현.
+    - [깃허브 레포지토리 링크](https://github.com/chopmozzi/Custom_Proxy_Server)
+- Probability and Statistics: Huffman Coding
+    - Language: C++, OS: Windows, Build Tool: Visual Studio Community solution
+    - Huffman coding을 이용해 txt파일의 내용을 압축(Encoding), 압축한 파일을 다시 해제(Decoding)하는 과정을 구현.
+    - [깃허브 레포지토리 링크](https://github.com/chopmozzi/Huffman_Coidng_in_CPP)
+- Artifical Intelligence: Hexapawn
+    - Language: C++, OS: Windows, Build Tool: Visual Studio Community solution 
+    - Player의 선택과 Alpha-Beta Pruning을 바탕으로 한 Computer의 선택을 기반으로 하는 Hexapawn 게임 구현.
+    - [깃허브 레포지토리 링크](https://github.com/chopmozzi/Hexapawn_in_CPP)
+
+- OpenSource Software Architecture and Training: OpenSource Contribution
+    - 오픈소스소프트웨어 설계 및 실습에서 팀 프로젝트로 오픈소스 컨트리뷰션 프로젝트를 진행함.
+    - Webpack 문서 번역 기여.
+    - [Webpack 기여 목록](https://github.com/line/webpack.kr/pulls?q=is%3Apr+is%3Aclosed+author%3Achopmozzi+)
 
 <br/>
