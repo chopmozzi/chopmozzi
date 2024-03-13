@@ -10,7 +10,7 @@
 2018~  
 Hwang Jiung(황지웅)
 
-**부스트캠프 웹・모바일 8기**
+**부스트캠프 웹・모바일 8기 iOS**
 - 2023.07.10 ~ 2023.08.04(챌린지)
 - 2023.08.28 ~ 2023.12.15(멤버십)
 <hr/>
@@ -32,7 +32,7 @@ Hwang Jiung(황지웅)
     - 서버 2명, 클라이언트(iOS) 3명으로 진행.
     - 숏폼의 영상 시청기능(재생 화면) 담당.
     - [깃허브 레포지토리 링크](https://github.com/boostcampwm2023/iOS09-Layover)
-    - [앱 스토어 링크](https://apps.apple.com/kr/app/layover/id6474028642)
+    - [앱 스토어 링크](https://apps.apple.com/kr/app/layover/id6474028642) 서비스 종료
 - App-In-App-le: NostalgiAlbum
     - Language: Swift, OS: iOS, Build Tool: Xcode
     - App-In-App-le 팀에서 진행한 프로젝트.
