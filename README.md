@@ -1,8 +1,8 @@
-# 🐢🎾CHOPMOZZI's Profile
+# 🎾 CHOPMOZZI's Profile
 >안녕하세요! 찹모찌입니다.
 ><br/>
 
-### 📖Education
+### 📖 Education
 🌱 I’m currently learning ...  
 **Kwangwoon University** - *Computer & Information Engineering*  
 2018~  
@@ -13,8 +13,11 @@ Hwang Jiung(황지웅)
 - 2023.08.28 ~ 2023.12.15(멤버십)
 <hr/>
 
-### 🔑Tech Stacks
+### 🔑 Tech Stacks
 #### Languages && Programming
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-F05138?style=flat-square&logo=iOS&logoColor=white"/>
 
 <hr>
+
+### 👀 Blog
+[찹모찌의 기록일지](https://chopmozzi.tistory.com/)
