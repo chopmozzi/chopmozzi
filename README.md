@@ -14,9 +14,7 @@ Hwang Jiung(황지웅)
 <hr/>
 
 ### 🔑Tech Stacks
-#### Languages
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+#### Languages && Programming
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-F05138?style=flat-square&logo=iOS&logoColor=white"/>
 
-#### Programming
-<img src="https://img.shields.io/badge/iOS-F05138?style=flat-square&logo=iOS&logoColor=white"/>
-<hr/>
+<hr>
