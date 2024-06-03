@@ -22,5 +22,7 @@ Hwang Jiung(황지웅)
 ### 👀 Blog
 [찹모찌의 기록일지](https://chopmozzi.tistory.com/)
 
+<hr>
+
 ### 📮 Contact
 chopmojji@gmail.com
